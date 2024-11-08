@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Events on My New Hugo Site</title>
-        <link>https://example.org/categories/events/</link>
-        <description>Recent content in Events on My New Hugo Site</description>
+        <title>Events on 8 Bits and a Byte</title>
+        <link>http://8bitsandabyte.com/categories/events/</link>
+        <description>Recent content in Events on 8 Bits and a Byte</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/events/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://8bitsandabyte.com/categories/events/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>SMRRF 2024: A Celebration of 3D Printing and Making</title>
-        <link>https://example.org/posts/smrrf2024/</link>
+        <link>http://8bitsandabyte.com/posts/smrrf2024/</link>
         <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/posts/smrrf2024/</guid>
-        <description>&lt;img src="https://example.org/posts/smrrf2024/smrrf2024_cover.jpeg" alt="Featured image of post SMRRF 2024: A Celebration of 3D Printing and Making" /&gt;&lt;p&gt;SMRRF 2024 is fast approaching, and it’s going to be a great event for anyone interested in DIY and especially 3D printing. If you’re wondering what it’s all about, I’ve finally made some time to write down my impressions from SMRRF 2023, in anticipation of this year’s event.&lt;/p&gt;
+        <guid>http://8bitsandabyte.com/posts/smrrf2024/</guid>
+        <description>&lt;img src="http://8bitsandabyte.com/posts/smrrf2024/smrrf2024_cover.jpeg" alt="Featured image of post SMRRF 2024: A Celebration of 3D Printing and Making" /&gt;&lt;p&gt;SMRRF 2024 is fast approaching, and it’s going to be a great event for anyone interested in DIY and especially 3D printing. If you’re wondering what it’s all about, I’ve finally made some time to write down my impressions from SMRRF 2023, in anticipation of this year’s event.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-smrrf&#34;&gt;What is SMRRF?
 &lt;/h2&gt;&lt;p&gt;SMRRF, short for ‘Sanjay Mortimer RepRap Festival’, is a 3D printing event where makers come together to share knowledge, exhibit their 3D printed creations and meet fellow makers. Generally, RepRap festivals celebrate open source projects that benefit the making community, and in fact stem from Adrian Bowyer’s RepRap projects for self-replicating machines.&lt;/p&gt;
 &lt;p&gt;SMRRF is not the only RepRap event, with several taking place in the US every year, but it is the only one in Europe, hosted in the UK by the Sanjay Mortimer Foundation (SMF), who are helping neurodivergent youth succeed in STEM. Sponsored by E3D, which Sanjay co-founded, they run the event in his memory (do read more about Sanjay &lt;a class=&#34;link&#34; href=&#34;https://www.sanjaymortimerfoundation.org/about-sanjay&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -20,10 +20,10 @@
 &lt;h2 id=&#34;looking-back-to-smrrf-2023&#34;&gt;Looking back to SMRRF 2023
 &lt;/h2&gt;&lt;p&gt;SMRRF 2023 was held in a former Oxford University exam hall on the first weekend of December. For their first attempt at a RepRap festival, the SMF team did a wonderful job organising the event.&lt;/p&gt;
 &lt;p&gt;Both Prusa and Voron Design attended, each showing off their newest machines, the Prusa XL and Voron Phoenix respectively. The variety of printers was too great to cover in detail, but we saw a Bambus, Enders, Vorons and some interesting printers over at Construct3D&amp;rsquo;s booth. A fun highlight was seeing the Positron at LDO’s booth, a foldable printer that prints upside down. The best smelling printer, of course, was Cocoa Press’s, though sadly we didn’t get to taste any 3D printed chocolate – maybe this year!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/posts/smrrf2024/cocoa-press-1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://8bitsandabyte.com/posts/smrrf2024/cocoa-press-1.jpg&#34;
 	width=&#34;3072&#34;
 	height=&#34;4080&#34;
-	srcset=&#34;https://example.org/posts/smrrf2024/cocoa-press-1_hu15639007956860949491.jpg 480w, https://example.org/posts/smrrf2024/cocoa-press-1_hu7525206603354224458.jpg 1024w&#34;
+	srcset=&#34;http://8bitsandabyte.com/posts/smrrf2024/cocoa-press-1_hu15639007956860949491.jpg 480w, http://8bitsandabyte.com/posts/smrrf2024/cocoa-press-1_hu7525206603354224458.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Cocoa Press: A chocolate 3D printer&#34;
@@ -34,10 +34,10 @@
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://example.org/posts/smrrf2024/cocoa-press-2.jpg&#34;
+&lt;img src=&#34;http://8bitsandabyte.com/posts/smrrf2024/cocoa-press-2.jpg&#34;
 	width=&#34;3072&#34;
 	height=&#34;4080&#34;
-	srcset=&#34;https://example.org/posts/smrrf2024/cocoa-press-2_hu6141644300723791473.jpg 480w, https://example.org/posts/smrrf2024/cocoa-press-2_hu17648892569744279467.jpg 1024w&#34;
+	srcset=&#34;http://8bitsandabyte.com/posts/smrrf2024/cocoa-press-2_hu6141644300723791473.jpg 480w, http://8bitsandabyte.com/posts/smrrf2024/cocoa-press-2_hu17648892569744279467.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A chocolate print of the cocoa press&#34;
@@ -49,10 +49,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;UK-based control board designers Duet3D were also there showcasing several of their boards, with their inductive bed mesh sensors working beautifully on an IDEX 3D printer. Many manufacturers of 3D printer parts were to be found, including Bigtreetech, LDO, and of course E3D, to name just a few. Filament suppliers like Polymaker and Cookiecad and UK vendors also attended. Academic lab groups showcased their research, with representatives from Loughborough University, Manchester Metropolitan University and Imperial College London all drawing a big crowd.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/posts/smrrf2024/polymaker.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://8bitsandabyte.com/posts/smrrf2024/polymaker.jpg&#34;
 	width=&#34;4080&#34;
 	height=&#34;2271&#34;
-	srcset=&#34;https://example.org/posts/smrrf2024/polymaker_hu10864173856349226768.jpg 480w, https://example.org/posts/smrrf2024/polymaker_hu12328649956220203205.jpg 1024w&#34;
+	srcset=&#34;http://8bitsandabyte.com/posts/smrrf2024/polymaker_hu10864173856349226768.jpg 480w, http://8bitsandabyte.com/posts/smrrf2024/polymaker_hu12328649956220203205.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Samples galore, and a giant snowglobe - Polymaker&amp;rsquo;s booth was a must visit.&#34;
@@ -75,10 +75,10 @@
 &lt;p&gt;This year’s SMRRF is scheduled to have several exciting events, including DIY workshops, a game show by Joel Telling, a printed RC car race, and an educational space for children, among others. Last year’s events, like the raffle, auction, and various talks by sponsors will also be taking place this year.&lt;/p&gt;
 &lt;p&gt;There is going to be a strong content creator presence, with Joel Telling from 3D Printing Nerd, Voron’s own content creator duo Steve (SteveBuilds) and Taylor (Canuck Creator), and many many more. Grant from 3D Musketeers shaved his head last year as part of the charity auction, so it remains to be seen if he has any other creative fundraising ideas this time around!&lt;/p&gt;
 &lt;p&gt;Many of last year’s exhibitors are making an appearance, including Prusa, Voron, Duet, Diamondback, Cocoa Press, and Millenium (who have now released the Milo CNC project they were showcasing last year). Make sure to not skip the north atrium as it will be filled with bronze sponsors, which are a big part of what makes RepRap festivals special. Bronze sponsors are usually individuals showcasing any recent projects, interests or just their nicest prints.There will likely be a wider variety of work and the booths areusually less busy so you can have longer and more memorable conversations.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/posts/smrrf2024/diamondback.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://8bitsandabyte.com/posts/smrrf2024/diamondback.jpg&#34;
 	width=&#34;3063&#34;
 	height=&#34;1928&#34;
-	srcset=&#34;https://example.org/posts/smrrf2024/diamondback_hu8459260194740442288.jpg 480w, https://example.org/posts/smrrf2024/diamondback_hu13588987111884606306.jpg 1024w&#34;
+	srcset=&#34;http://8bitsandabyte.com/posts/smrrf2024/diamondback_hu8459260194740442288.jpg 480w, http://8bitsandabyte.com/posts/smrrf2024/diamondback_hu13588987111884606306.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Diamondback&amp;rsquo;s ice sculpture was a big hit and a smart way to show diamond&amp;rsquo;s conductivity.&#34;
