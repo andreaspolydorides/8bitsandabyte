@@ -7,6 +7,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://8bitsandabyte.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://8bitsandabyte.com/pages/about/</link>
+        <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://8bitsandabyte.com/pages/about/</guid>
+        <description>&lt;p&gt;Hey, will add some text here in the future!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://8bitsandabyte.com/pages/archives/</link>
+        <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://8bitsandabyte.com/pages/archives/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>SMRRF 2024: A Celebration of 3D Printing and Making</title>
         <link>http://8bitsandabyte.com/posts/smrrf2024/</link>
         <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
@@ -93,14 +110,6 @@
     &gt;Global Disability Innovation Hub&lt;/a&gt;, which is based at UCL. Along with some fellow researchers, we’ll be sharing our work on assistive technologies, which are made possible by 3D printing and other DIY practices. I’ll be showcasing my work on wheelchair seating comfort, with DIY approaches for pressure relief and thermal comfort. There will also be work on DIY refreshable pin-array displays and printable prosthetics.&lt;/p&gt;
 &lt;p&gt;If you’re coming along, drop by and check out our table in the middle of the south atrium!&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>http://8bitsandabyte.com/pages/archives/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-        
-        <guid>http://8bitsandabyte.com/pages/archives/</guid>
-        <description></description>
         </item>
         <item>
         <title>Search</title>
