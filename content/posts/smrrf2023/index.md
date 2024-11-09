@@ -1,8 +1,8 @@
 ---
-title : "SMRRF 2024: A Celebration of 3D Printing and Making"
+title : "SMRRF 2023: A Celebration of 3D Printing and Making"
 date : 2024-11-08
 draft : false
-image : smrrf2024_cover.jpeg
+image : smrrf2023_cover.jpeg
 tags:
     - 3D Printing
 categories:
